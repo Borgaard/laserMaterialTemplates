@@ -1,5 +1,5 @@
 # laserMaterialTemplates Overview
-Material templates for laser cutters are used to understand what to expect from various settings on a variety of materials. They're primarily made for either Lightburn or CorelDraw, however they can be easily adapted to common settings used in Inkscape and Illustrator.
+Material templates for laser cutters are used to understand what to expect from various settings on a variety of materials. These are primarily made for either Lightburn or CorelDraw, however they can be easily adapted to common settings used in Inkscape and Illustrator.
 
 # How to use
 You will likely need to engrave in multiple separate jobs before cutting out the final template.
