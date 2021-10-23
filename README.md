@@ -13,6 +13,10 @@ You will likely need to engrave in multiple separate jobs before cutting out the
 - Align, focus, and engrave your material. You will likely need to run multiple engravings to change settings.
 - Cut last.
 
+![engravingTemplates](https://user-images.githubusercontent.com/7587991/138536608-d1ba59ab-06f5-4b1a-aa9d-d2525a8581c4.jpg)
+
+![6mm Acrylic Engraving Hexagon Template](https://user-images.githubusercontent.com/7587991/138536600-e9c173ee-95fa-421f-9fed-7c977ac14b32.PNG)
+
 # Tips
 - Engrave first. Why? Material can shift/drop/warp after cutting, so engraving first helps keep the focal distance you set. 
 - Cut inner pieces before outer. Why? Much like engraving, it's important your material stays in the focal distance you set. Cutting outer pieces releases your material from the stress that keeps it in place, thus increasing the chance smaller pieces cut later won't be in focus.
