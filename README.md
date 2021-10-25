@@ -31,5 +31,6 @@ The dragchain track that supports the laser's head to travel left and right.
 #### Interval/DPI/Scan/Gap
 These are effectively all the same function. While speed is determined by the laser's head passing back and forth along the gantry, Interval/DPI/Scan/Gap is the distance the gantry moves with each pass.
 
-#### License
+
+## License
 These laser material templates were developed by Nicole Borgaard, licensed with GNU General Public License Version 2.0. Anyone is welcome to use, modify, and share them, however, all modifications shared need to be open and available for others to make their own modifications and improvements.
